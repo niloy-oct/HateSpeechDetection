@@ -1,1 +1,3 @@
-# HateSpeechDetection
+# HateDetection
+
+# This project detect  bangla hate comment in facebook ...
